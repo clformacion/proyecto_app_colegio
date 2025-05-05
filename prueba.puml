@@ -1,0 +1,15 @@
+@startsalt prueba
+skinparam BackgroundColor palegreen
+{+
+Login | "carlos"
+pawware | "1234"
+[cancelar] | [entrar]
+
+
+}
+
+
+
+
+
+@enduml
